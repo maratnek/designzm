@@ -1,0 +1,19 @@
+{
+  "name": "designzm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maratnek/designzm.git"
+  },
+  "author": "zm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maratnek/designzm/issues"
+  },
+  "homepage": "https://github.com/maratnek/designzm#readme"
+}
